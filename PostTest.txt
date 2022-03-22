@@ -1,0 +1,30 @@
+1. Cara penulisan method di java
+Cara penulisan method di satu kelas dengan cara membuat kelas kemudian membuat method
+seperti
+
+(kelas)
+public class hitung {
+(method)
+pubic static (modifier) void main (nama method) (String[] args)(parameter){
+
+}
+}
+
+2. Cara memanggil method
+
+Cara memanggil method adalah dengan menggunakan sintaks nama_method(parameter);
+
+contoh
+
+public class hitung {
+double jumlah = tambah(6,2);
+system.out.println(jumlah);
+
+}
+
+static double tambah (double n1, double n2) {
+double hasil = n1 + n2;
+return hasil;
+
+}
+}
