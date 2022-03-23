@@ -1,0 +1,3 @@
+1. OOP adalah metode pemograman berbasis objek yang bertujuan untuk mempermudah pengerjaan suatu program dengan membuat suatu objek yang berisi fungsi dan atribut.
+2. atribut sering disebut sebagai propertiy
+3. Class akan merepresentasikan objek yang mau dibuat, sedngkan object adalah sebuah variabel instance yang merupakan wujud dari class.

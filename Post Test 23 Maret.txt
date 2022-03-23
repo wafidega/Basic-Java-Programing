@@ -1,0 +1,7 @@
+1. Prinsip OOp ada 4 yaitu:
+a. Polymorphisme
+b. encaptulation
+c. inheritance
+d. abstraction
+
+2. Objek yangc dibuat dari suatu class bisa terdiri 7 atau lebih objek
